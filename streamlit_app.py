@@ -1,6 +1,6 @@
 import os
 import streamlit as st
-from langchain_google_genai import ChatGoogleGenerativeAI
+#from langchain_google_genai import ChatGoogleGenerativeAI
 from google.api_core.retry import Retry
 from datetime import datetime, timedelta
 
